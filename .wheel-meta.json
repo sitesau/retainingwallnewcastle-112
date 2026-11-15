@@ -1,0 +1,22 @@
+{
+  "wheel_id": 905,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-112",
+  "project": "retaining-walls-newcastle-materials-compared-3bff1720c792bedaf2",
+  "parent_t1_ref": "retainingwallnewcastle-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle materials compared",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-newcastle-materials-compared-3bff1720c792bedaf2/",
+  "tier": "T2",
+  "writeback_nonce": "9be5c8012c11e6c9",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallnewcastle-155/",
+      "anchor": "more on retaining walls newcastle",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
